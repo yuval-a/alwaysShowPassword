@@ -1,7 +1,7 @@
 # alwaysShowPassword
-A small silly (though useful) Chrome extension that disables the "bullet hiding" of password input fields. 
-**this is only meant to be installed and used on a PRIVATE computer where no one else can see you typing your password.** 
-**USE AT YOUR OWN RISK!**
+A small silly (though useful) Chrome extension that disables the "bullet hiding" of password input fields. <br>
+**this is only meant to be installed and used on a PRIVATE computer where no one else can see you typing your password.** <br> 
+**USE AT YOUR OWN RISK!** <br>
 
 # Installation
 * Download or clone the repo to your local file system.
