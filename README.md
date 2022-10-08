@@ -11,7 +11,7 @@ A small silly (though useful) Chrome extension that disables the "bullet hiding"
 * Choose the folder where you downloaded the extension to.
 * The extension is now installed.
 
-* Options and configration
+# Options and configration
 There is no explicit options screen for the extension - but you can change settings via Chrome extension's manager:
 ## Limiting the extension to only run for specific websites
 By default the extension runs for all websites. You can set it to run for only specific websites:
