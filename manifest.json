@@ -1,0 +1,15 @@
+{
+    "name": "Always Show Password",
+    "description": "With this extension on - when typing passwords into password fields - it will always show what you type - never hiding it with asteriks or something similar. It is meant to be used on your own private home computer. Never use on a public computer! Use at your own risk!",
+    "author": "Yuval Aloni",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": [ "scripting" ],
+    "host_permissions": [
+        "http://*/",
+        "https://*/"
+    ]
+  }
